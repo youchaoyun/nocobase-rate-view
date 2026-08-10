@@ -129,3 +129,17 @@ Rating fields work seamlessly with the NocoBase Workflow Engine:
 ## 📄 License
 
 This project is licensed under the AGPL-3.0 license.
+
+### Noco Plugin Community
+
+Scan the QR code to join the Noco Plugin Community, where you can discuss NocoBase plugin development, plugin usage, and enterprise extension practices.
+
+![Noco Plugin Community](src/docs/images/noco-plugin-community.png)
+
+If the QR code has expired, use the **More plugins** page below to request the latest community entry.
+
+## More plugins
+
+Youchao Digital Intelligence continues to build enterprise-grade NocoBase plugins and extension capabilities. Explore more plugins at:
+
+[More NocoBase plugin extensions](https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/)
