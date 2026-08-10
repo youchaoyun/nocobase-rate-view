@@ -10,7 +10,7 @@
 
 在列表视图中，评分字段以可交互的星星展示。用户**无需进入详情页**，直接点击星星即可完成评分，数据实时保存到数据库。
 
-![列表页评分效果](./docs/images/zh/list-view.png)
+![列表页评分效果](/src/docs/images/zh/list-view.png)
 
 **核心亮点：**
 - ⚡ **即时交互** — 点击星星立即生效，无弹窗、无跳转
@@ -21,7 +21,7 @@
 
 在新建 / 编辑表单中，评分字段以直观的星星组件呈现，比数字输入框更易用、更美观。
 
-![表单评分效果](./docs/images/zh/form-edit.png)
+![表单评分效果](/src/docs/images/zh/form-edit.png)
 
 **核心亮点：**
 - 👆 **所见即所得** — 鼠标悬停即可预览分数
@@ -67,7 +67,7 @@
 4. 在弹出的配置面板中，将「字段组件」设置为 **星级评分（Rating stars）**
 5. 保存配置
 
-![列表视图配置](./docs/images/zh/list-view-detail.png)
+![列表视图配置](/src/docs/images/zh/list-view-detail.png)
 
 #### 表单视图 — 设置为评分选择器
 
