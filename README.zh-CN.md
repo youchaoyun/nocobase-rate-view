@@ -128,3 +128,19 @@
 ## 📄 许可证
 
 本项目基于 AGPL-3.0 许可证开源。
+
+## 交流与文档
+
+### Noco 插件交流
+
+欢迎扫码加入 Noco 插件交流，讨论 NocoBase 插件开发、插件使用和企业级扩展实践。
+
+![Noco 插件交流](src/docs/images/noco-plugin-community.png)
+
+二维码如已过期，可通过下方「更多插件」页面联系获取最新交流群入口。
+
+## 更多插件
+
+有巢数智持续沉淀 NocoBase 企业级插件与扩展能力，更多插件请查看：
+
+[更多 NocoBase 插件扩展](https://docs.youchaoyun.com/cn/infrastructure/plugin_extension/)
