@@ -1,0 +1,1 @@
+# @youchaoyun/plugin-rating
