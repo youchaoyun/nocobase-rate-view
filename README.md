@@ -1,5 +1,7 @@
 # @youchaoyun/plugin-rating — Documentation
 
+English | [简体中文](./README.zh-CN.md)
+
 > @youchaoyun/plugin-rating Star Rating Plugin — provides an intuitive 5-star rating component for both data tables and forms.
 
 ---
