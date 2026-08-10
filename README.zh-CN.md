@@ -1,6 +1,7 @@
 # @youchaoyun/plugin-rating — 使用文档
 
-> NocoBase 星级评分插件，为数据列表和表单提供直观的五星评分交互组件。
+[English](./README.md) | 简体中文
+> plugin-rating 星级评分插件，为数据列表和表单提供直观的五星评分交互组件。
 
 ---
 
